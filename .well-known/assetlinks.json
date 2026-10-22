@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onrender.daltaa.twa",
+        "sha256_cert_fingerprints": ["43:AC:0E:2F:75:7C:9F:2C:78:30:C9:3D:51:E6:CF:46:5C:97:FA:31:32:27:C7:04:49:12:D0:6B:14:2B:03:75"]
+      }
+    }]
